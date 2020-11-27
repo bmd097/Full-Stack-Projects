@@ -49,6 +49,6 @@ function replaceData(output, id) {
   output = output.replace(/{&&DISPLAY&&}/g, laptopData[id].display);
   output = output.replace(/{&&WARRENTY&&}/g, laptopData[id].warrenty);
   output = output.replace(/{&&IMG&&}/g, laptopData[id].img);
-  output = output.replace(/{&&ID&&}/, id);
+  output = output.replace(/{&&ID&&}/g, id);
   return output;
 }

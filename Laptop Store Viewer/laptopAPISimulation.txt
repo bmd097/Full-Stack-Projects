@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Dell XPS Core",
+        "img":"https://topnewreview.com/wp-content/uploads/2018/11/Dell-XPS-15-2018-Review.jpg",
+        "processor":"Intel i7",
+        "display":"4K 15.6",
+        "ram":"32 GB",
+        "warrenty":"1.5 yrs"
+    },
+    {
+        "name":"Apple MacBook Pro",
+        "img":"https://idmmag.com/wp-content/uploads/2018/07/2018-Apple-MacBook-Pro.jpg",
+        "processor":"Intel i9",
+        "display":"4K 16",
+        "ram":"16 GB",
+        "warrenty":"2 yrs"
+    },
+    {
+        "name":"Lenovo TP Core",
+        "img":"https://icdn7.digitaltrends.com/image/lenovo-thinkpad-t450s-back-angle-1500x1000.jpg",
+        "processor":"Intel i5",
+        "display":"FHD 14",
+        "ram":"8 GB",
+        "warrenty":"1.5 yrs"
+    },
+    {
+        "name":"HP Pavilion x360",
+        "img":"https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc2/hp_pavilion_2014_384.jpg",
+        "processor":"Intel i5",
+        "display":"FHD 14",
+        "ram":"16 GB",
+        "warrenty":"1 yrs"
+    },
+    {
+        "name":"Microsoft Surface Pro 6",
+        "img":"https://icdn2.digitaltrends.com/image/digitaltrends/microsoft-surface-pro-6-review-3-2.jpg",
+        "processor":"Intel i7",
+        "display":"4K 12.3",
+        "ram":"8 GB",
+        "warrenty":"1.5 yrs"
+    },
+    {
+        "name":"ASUS Vivobook 14",
+        "img":"https://images.anandtech.com/doci/13646/asus-vivobook-2C.jpg",
+        "processor":"Intel i5",
+        "display":"FHD 14",
+        "ram":"8 GB",
+        "warrenty":"1.5 yrs"
+    }
+]
